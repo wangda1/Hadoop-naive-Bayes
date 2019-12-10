@@ -1,0 +1,6 @@
+all classes micro average P: 0.726758
+all classes micro average R: 0.685384
+all classes micro average F1: 0.626580
+all classes macro average P: 0.568195
+all classes macro average R: 0.568195
+all classes macro average F1: 0.568195
